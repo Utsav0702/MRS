@@ -10,10 +10,6 @@ Welcome to the Movies Recommendation System project! This project focuses on bui
 - Most Reviewed Movies
 - Suggest Similar Movies From Given Movie
 
-## How It Works
-
-The recommendation system analyzes user interactions with movies, such as ratings and watch history. It then identifies patterns and associations among users and movies to generate personalized recommendations. This process involves identifying users with similar tastes and suggesting movies enjoyed by those with similar profiles.
-
 ## Dataset
 
 The recommendation system is trained on a dataset(includes 10300+ movies and 105300+ ratings) containing movieId, genres, ratings, title, userId, timestamp etc. 
