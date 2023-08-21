@@ -1,6 +1,6 @@
----------------Movie Recommendation System(MRS)--------------
-Dataset is downloaded from official kaggle site.
-this dataset includes 10300+ movies including 105300+ ratings
+Movie Recommendation System(MRS);
+Dataset is downloaded from official kaggle site.;
+this dataset includes 10300+ movies including 105300+ ratings;
 -------------------------------------------------------------
 This Movie Recommendation System can give you:
 1. Highest Rated Movies
