@@ -1,9 +1,15 @@
-Movie Recommendation System(MRS)
--------------------------------------------------------------
-Dataset is downloaded from official kaggle site.
-This dataset includes 10300+ movies including 105300+ ratings.
--------------------------------------------------------------
-This Movie Recommendation System can give you:
-1. Highest Rated Movies
-2. Most Reviewed Movies
-3. Suggest Similar Movies From Given Movie
+# Movies Recommendation System(MRS)
+
+## Project Description
+
+Welcome to the Movies Recommendation System project! This project focuses on building a recommendation engine that suggests movies to users based on their preferences and viewing history. By utilizing collaborative filtering and machine learning techniques, the system aims to enhance users' movie-watching experience.
+
+## Features
+
+- Highest Rated Movies
+- Most Reviewed Movies
+- Suggest Similar Movies From Given Movie
+
+## Dataset
+
+The recommendation system is trained on a dataset(includes 10300+ movies and 105300+ ratings) containing movieId, genres, ratings, title, userId, timestamp etc. 
